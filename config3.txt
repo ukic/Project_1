@@ -1,0 +1,18 @@
+map:Hell's Portal
+height:10
+width:10
+plantGrowth:Toxic dead
+dnaLength:10
+minMutations:1
+maxMutations:10
+mutationType:Little corrected
+behaviourType:Semi random
+startPlants:3
+plantEnergy:10
+newPlants:10
+startAnimal:13
+startAnimalEnergy:10
+minHealthyEnergy:10
+energyChildLoss:10
+to_csv:false
+file:D:\AGH\PObiekt\Project1_copy\config3.txt

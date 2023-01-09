@@ -1,0 +1,18 @@
+map:Globe
+height:10
+width:10
+plantGrowth:Green Equator
+dnaLength:10
+minMutations:0
+maxMutations:10
+mutationType:Fully random
+behaviourType:Fully predestined
+startPlants:10
+plantEnergy:10
+newPlants:10
+startAnimal:10
+startAnimalEnergy:10
+minHealthyEnergy:10
+energyChildLoss:13
+to_csv:false
+file:D:\AGH\PObiekt\Project1_copy\config1.txt
